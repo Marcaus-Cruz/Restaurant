@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/resturaunt/static/css/main.829a0008.chunk.css",
-    "main.js": "/resturaunt/static/js/main.ebe87bc4.chunk.js",
-    "main.js.map": "/resturaunt/static/js/main.ebe87bc4.chunk.js.map",
-    "runtime-main.js": "/resturaunt/static/js/runtime-main.572071f8.js",
-    "runtime-main.js.map": "/resturaunt/static/js/runtime-main.572071f8.js.map",
-    "static/js/2.00702b69.chunk.js": "/resturaunt/static/js/2.00702b69.chunk.js",
-    "static/js/2.00702b69.chunk.js.map": "/resturaunt/static/js/2.00702b69.chunk.js.map",
-    "index.html": "/resturaunt/index.html",
-    "static/css/main.829a0008.chunk.css.map": "/resturaunt/static/css/main.829a0008.chunk.css.map",
-    "static/js/2.00702b69.chunk.js.LICENSE.txt": "/resturaunt/static/js/2.00702b69.chunk.js.LICENSE.txt",
-    "static/media/islandMikesGrill.28226699.jpg": "/resturaunt/static/media/islandMikesGrill.28226699.jpg"
+    "main.css": "/restaurant/static/css/main.829a0008.chunk.css",
+    "main.js": "/restaurant/static/js/main.ebe87bc4.chunk.js",
+    "main.js.map": "/restaurant/static/js/main.ebe87bc4.chunk.js.map",
+    "runtime-main.js": "/restaurant/static/js/runtime-main.d2719367.js",
+    "runtime-main.js.map": "/restaurant/static/js/runtime-main.d2719367.js.map",
+    "static/js/2.00702b69.chunk.js": "/restaurant/static/js/2.00702b69.chunk.js",
+    "static/js/2.00702b69.chunk.js.map": "/restaurant/static/js/2.00702b69.chunk.js.map",
+    "index.html": "/restaurant/index.html",
+    "static/css/main.829a0008.chunk.css.map": "/restaurant/static/css/main.829a0008.chunk.css.map",
+    "static/js/2.00702b69.chunk.js.LICENSE.txt": "/restaurant/static/js/2.00702b69.chunk.js.LICENSE.txt",
+    "static/media/islandMikesGrill.28226699.jpg": "/restaurant/static/media/islandMikesGrill.28226699.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.572071f8.js",
+    "static/js/runtime-main.d2719367.js",
     "static/js/2.00702b69.chunk.js",
     "static/css/main.829a0008.chunk.css",
     "static/js/main.ebe87bc4.chunk.js"
