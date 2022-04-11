@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/resturaunt/static/css/main.829a0008.chunk.css",
-    "main.js": "/resturaunt/static/js/main.ebe87bc4.chunk.js",
-    "main.js.map": "/resturaunt/static/js/main.ebe87bc4.chunk.js.map",
-    "runtime-main.js": "/resturaunt/static/js/runtime-main.572071f8.js",
-    "runtime-main.js.map": "/resturaunt/static/js/runtime-main.572071f8.js.map",
-    "static/js/2.00702b69.chunk.js": "/resturaunt/static/js/2.00702b69.chunk.js",
-    "static/js/2.00702b69.chunk.js.map": "/resturaunt/static/js/2.00702b69.chunk.js.map",
-    "index.html": "/resturaunt/index.html",
-    "static/css/main.829a0008.chunk.css.map": "/resturaunt/static/css/main.829a0008.chunk.css.map",
-    "static/js/2.00702b69.chunk.js.LICENSE.txt": "/resturaunt/static/js/2.00702b69.chunk.js.LICENSE.txt",
-    "static/media/islandMikesGrill.28226699.jpg": "/resturaunt/static/media/islandMikesGrill.28226699.jpg"
+    "main.css": "/Restaurant/static/css/main.829a0008.chunk.css",
+    "main.js": "/Restaurant/static/js/main.7bf30065.chunk.js",
+    "main.js.map": "/Restaurant/static/js/main.7bf30065.chunk.js.map",
+    "runtime-main.js": "/Restaurant/static/js/runtime-main.866ae6f6.js",
+    "runtime-main.js.map": "/Restaurant/static/js/runtime-main.866ae6f6.js.map",
+    "static/js/2.00702b69.chunk.js": "/Restaurant/static/js/2.00702b69.chunk.js",
+    "static/js/2.00702b69.chunk.js.map": "/Restaurant/static/js/2.00702b69.chunk.js.map",
+    "index.html": "/Restaurant/index.html",
+    "static/css/main.829a0008.chunk.css.map": "/Restaurant/static/css/main.829a0008.chunk.css.map",
+    "static/js/2.00702b69.chunk.js.LICENSE.txt": "/Restaurant/static/js/2.00702b69.chunk.js.LICENSE.txt",
+    "static/media/islandMikesGrill.28226699.jpg": "/Restaurant/static/media/islandMikesGrill.28226699.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.572071f8.js",
+    "static/js/runtime-main.866ae6f6.js",
     "static/js/2.00702b69.chunk.js",
     "static/css/main.829a0008.chunk.css",
-    "static/js/main.ebe87bc4.chunk.js"
+    "static/js/main.7bf30065.chunk.js"
   ]
 }
